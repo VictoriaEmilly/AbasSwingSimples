@@ -25,7 +25,7 @@ public class TelaAbas1 extends javax.swing.JFrame {
     /**
      * Esse método é chamado junto ao método construtor.
      * ATENÇÃO: NÃO MODIFIQUE esse método. O conteúdo deste método
-     * é gerado pelo  Form Editor.
+     * é gerado pelo Form Editor.
      */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
